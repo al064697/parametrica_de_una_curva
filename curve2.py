@@ -7,6 +7,7 @@ def r(t):
     y = np.cos(t)**2
     return x, y
 
+
 # Crear valores de t
 t_values = np.linspace(-2*np.pi, 2*np.pi, 1000)
 
